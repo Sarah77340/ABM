@@ -1,0 +1,32 @@
+[
+    {
+        "name": "John Doe",
+        "customerType": "Adult",
+        "id": "1234567890123456",
+        "dateOfBirth": "2001-01-01",
+        "bankAccount": {
+            "balance": 1000,
+            "currency": "USD"
+        }
+    },
+    {
+        "name": "Alice Smith",
+        "customerType": "Minor",
+        "id": "9876543210987654",
+        "dateOfBirth": "2008-05-15",
+        "bankAccount": {
+            "balance": 500,
+            "currency": "EUR"
+        }
+    },
+    {
+        "name": "Bob Johnson",
+        "customerType": "VIP",
+        "id": "4567890123456789",
+        "dateOfBirth": "1991-09-20",
+        "bankAccount": {
+            "balance": 1500,
+            "currency": "CAD"
+        }
+    }
+]

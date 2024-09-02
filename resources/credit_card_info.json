@@ -1,0 +1,9 @@
+[
+  {
+    "cardNumber": "1234567890123456",
+    "codeNIP": "1234",
+    "expirationDate": "12/2025",
+    "securityCode": "123",
+    "cardStatus": "Active",
+  }
+]
